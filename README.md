@@ -4,7 +4,7 @@
 - PHP 5.6+
 - Composer
 
-## Instalation
+## Installation
 
 - `composer update`
 - `cp .env.example .env` and edit it.
