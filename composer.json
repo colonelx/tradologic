@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "TradoLogic\\": "app"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.8",
+        "vlucas/phpdotenv": "^2.4",
+        "zircote/swagger-php": "^2.0"
+    }
+}
