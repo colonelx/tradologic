@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: viktor
- * Date: 6/26/17
- * Time: 2:01 AM
- */
 
 namespace TradoLogic\Exception;
 

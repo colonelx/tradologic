@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: viktor
- * Date: 6/26/17
- * Time: 12:14 AM
- */
 
 namespace TradoLogic\Library;
 
