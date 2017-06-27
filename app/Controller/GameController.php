@@ -54,7 +54,7 @@ class GameController extends BaseController
      */
     public function listAll(Request $request, Response $response)
     {
-        $result = new ApiResponse(ApiResponse::CODE_SUCCESS,
+        $result = new ApiResponse(200,
             $this->gm->listAll());
 
         return $this->respond($result, $response);
